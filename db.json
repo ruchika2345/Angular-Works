@@ -1,0 +1,81 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "firstName": "Ruchika",
+      "lastName": "Das",
+      "email": "ruchika@gmail.com",
+      "dob": "2023-05-01T18:15:00.000Z",
+      "gender": "female",
+      "education": "Graduate",
+      "company": "goggle",
+      "experience": 7,
+      "package": 7,
+      "id": 3
+    },
+    {
+      "firstName": "kriti",
+      "lastName": "Das",
+      "email": "das@gmail.com",
+      "dob": "2023-05-04T18:15:00.000Z",
+      "gender": "female",
+      "education": "Post Graduate",
+      "company": "Fake",
+      "experience": 4,
+      "package": 8,
+      "id": 4
+    },
+    {
+      "firstName": "Misha",
+      "lastName": "Das",
+      "email": "das@gmail.com",
+      "dob": "2023-05-03T18:15:00.000Z",
+      "gender": "female",
+      "education": "Post Graduate",
+      "company": "goggle",
+      "experience": 8,
+      "package": 4,
+      "id": 5
+    },
+    {
+      "firstName": "Smrity",
+      "lastName": "Guragain",
+      "email": "smrity@gmail.com",
+      "dob": "2023-05-04T18:15:00.000Z",
+      "gender": "female",
+      "education": "Graduate",
+      "company": "Fake",
+      "experience": 6,
+      "package": 9,
+      "id": 6
+    },
+    {
+      "firstName": "yr6yfhjgd",
+      "lastName": "gufdetydg",
+      "email": "das@gmail.com",
+      "dob": "2023-05-04T18:15:00.000Z",
+      "gender": "others",
+      "education": "Intermediate",
+      "company": "Fake",
+      "experience": 7,
+      "package": 3,
+      "id": 7
+    }
+  ]
+}
